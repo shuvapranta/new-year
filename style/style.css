@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+/* banner section css start */
+.banner{
+    background-image: url("../images/banner/banner2.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 810px;
+}
